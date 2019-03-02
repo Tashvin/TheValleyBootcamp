@@ -1,8 +1,12 @@
-n = 6
+a = int(input("enter a number: "))
 
-if n%2 == 0:
-	print("the number is even")
+if a%2 == 0:
+
+	
+	print(f"{a} is even")
+
 else:
-	print("the number is odd")
+
+	print(f"{a} is odd")
 
 	
